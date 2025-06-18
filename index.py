@@ -1,7 +1,7 @@
 from nextcord.ext import commands
 from commands import normal_commands
 
-TOKEN = 'Nzg4ODIzMTc4OTQ3NDYxMTIw.GWhQ9-.5wS0qvfOf2iUjdmCMYcpXbrP0EQFSPOBJcy2J0'
+TOKEN = 'TEST'
 
 client = commands.Bot(command_prefix = "haru!")
 
